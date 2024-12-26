@@ -1,6 +1,6 @@
-# EJ-Mar-Manabat-Data-Analyst-Portfolio
+# EJ Mar Manabat - Data Analyst Portfolio
 
-About 
+## About 
 
 I am a dedicated and detail-oriented data analyst with a strong foundation in Excel, SQL, Power BI, and statistical analysis. My expertise lies in transforming raw data into actionable insights that drive decision-making and business growth. With a passion for problem-solving and data storytelling, I thrive on creating visually compelling dashboards and uncovering trends to support strategic initiatives.
 
