@@ -25,3 +25,13 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
   - Excel
 
 ## Education
+Holy Angel University:
+Bachelor of Science in Aeronautical Engineering,
+2019 - 2023
+
+Porac Model Community High School:
+Senior High School - Strand: Information and Communication Technology (ICT),
+2017 - 2019
+
+## Certificates
+
