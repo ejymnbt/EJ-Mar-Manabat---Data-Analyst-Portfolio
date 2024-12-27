@@ -53,6 +53,6 @@ Senior High School - Strand: Information and Communication Technology (ICT),
   - Mastered DAX (Data Analysis Expressions) to perform advanced calculations, createcustom measures, and build calculated columns.
 
 ## Contacts
-- LInkedIn: [linkedin.com/in/ej-mar-manabat]
+- LInkedIn: linkedin.com/in/ej-mar-manabat
 - Email: manabat.ejmar20@gmail.com
 
