@@ -11,6 +11,5 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
 ## Portfolio Projects
 - [Portfolio Projects](https://github.com/ejymnbt/Portfolio-Projects?tab=readme-ov-file#portfolio-projects).
   - SQL
-
-### World Layoffs Data Cleaning
-  **Code:** [World Layoffs Data Cleaning](https://github.com/ejymnbt/Portfolio-Projects/blob/main/World%20Layoffs%20Data%20Cleaning.sql).
+    ### World Layoffs Data Cleaning
+    **Code:** [World Layoffs Data Cleaning](https://github.com/ejymnbt/Portfolio-Projects/blob/main/World%20Layoffs%20Data%20Cleaning.sql).
