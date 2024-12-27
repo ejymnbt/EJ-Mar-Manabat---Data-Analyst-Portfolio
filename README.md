@@ -8,3 +8,9 @@ My career journey reflects a commitment to continuous learning and professional 
 
 My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Portfolio/blob/main/Manabat%2C%20EJ%20Mar%20-%20Resume.pdf).
 
+## Portfolio Projects
+- [Portfolio Projects](https://github.com/ejymnbt/Portfolio-Projects?tab=readme-ov-file#portfolio-projects).
+  - SQL
+
+### World Layoffs Data Cleaning
+  **Code:** [World Layoffs Data Cleaning](https://github.com/ejymnbt/Portfolio-Projects/blob/main/World%20Layoffs%20Data%20Cleaning.sql).
