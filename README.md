@@ -34,4 +34,22 @@ Senior High School - Strand: Information and Communication Technology (ICT),
 2017 - 2019
 
 ## Certificates
+- [Associate Data Analyst - DataCamp (2024)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/DAA0014953364438.pdf).
+  - Developed skills in handling real-world data, including cleaning and transforming data forreporting purposes.
+  - Successfully completed hands-on projects to solve practical data problems and supportdecision-making.
+- [SQL Associate - DataCamp (2024)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/SQA0017793629298.pdf).
+  - Gained proficiency in SQL for data manipulation and analysis, including querying, filtering,and aggregating data.
+  - Developed skills in creating and managing databases, tables, and views.
+  - Learned to use various SQL functions and clauses for data transformation.
+- [SQL for Business Analyst - DataCamp (2024)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/SQL%20for%20Business%20Analysts.pdf).
+  - Mastered data manipulation and querying using SQL for business insights.
+  - Applied best practices for structuring and presenting data insights for stakeholders.
+- [Data Analyst in Power BI - DataCamp (2024)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/Data%20Analyst%20in%20Power%20BI.pdf).
+  - Acquired skills in data preparation, including cleaning, merging, and transforming datasetsusing Power Query.
+  - Gained expertise in designing interactive dashboards and data visualizations tocommunicate insights effectively.
+  - Mastered DAX (Data Analysis Expressions) to perform advanced calculations, createcustom measures, and build calculated columns.
+
+## Contacts
+- LInkedIn: [@ejmarmanabat](www.linkedin.com/in/ej-mar-manabat).
+- Email: manabat.ejmar20@gmail.com
 
