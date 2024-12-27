@@ -6,5 +6,5 @@ I am a dedicated and detail-oriented data analyst with a strong foundation in Ex
 
 My career journey reflects a commitment to continuous learning and professional growth, equipping me with the technical and analytical skills needed to excel in the fast-evolving world of data analytics.
 
-My Resume in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Portfolio/blob/main/Manabat%2C%20EJ%20Mar%20-%20Resume.pdf)).
+My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Portfolio/blob/main/Manabat%2C%20EJ%20Mar%20-%20Resume.pdf).
 
