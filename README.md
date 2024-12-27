@@ -13,3 +13,4 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
   - SQL
     ### World Layoffs Data Cleaning
     **Code:** [World Layoffs Data Cleaning](https://github.com/ejymnbt/Portfolio-Projects/blob/main/World%20Layoffs%20Data%20Cleaning.sql).
+    **Description:** The dataset used in this project contains real-world information about layoffs across various companies and industries. It includes fields such as company name, industry, location, date of layoff, number of employees affected, and additional details like reasons for layoffs or comments. The project covers essential data cleaning techniques such as removing duplicates, handling missing values, standardizing formats, and creating a structured database.
