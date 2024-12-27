@@ -21,7 +21,7 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
 
     **Description:** Examining trends across industries, companies, and time periods. The project uses SQL to uncover insights and patterns, showcasing practical data analysis techniques for real-world scenarios.
 
-- Power BI
-- Excel
+  - Power BI
+  - Excel
 
 ## Education
