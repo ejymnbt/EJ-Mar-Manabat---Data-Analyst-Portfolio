@@ -25,6 +25,13 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
     ### HR Analytics
     **Dashboard:** [HR Analytics.pdf](https://github.com/ejymnbt/Portfolio-Projects/blob/main/HR%20Analytics.pdf).
     
+    **Description:** In this HR Analytics, I explored how data-driven insights can optimize workforce management. Using real-world HR datasets, I performed data cleaning, visualization, and analysis to uncover trends in employee performance and attrition. Key findings included identifying factors driving turnover and predicting at-risk employees through statistical modeling.
+
+    ### Ecommerce Analysis
+    **Dashboard:** [Ecommerce Analysis.pdf](https://github.com/ejymnbt/Portfolio-Projects/blob/main/Ecommerce%20Analysis.pdf).
+
+    **Description:** In this E-commerce Analysis, I delved into the world of online retail to understand how businesses can leverage data for growth and efficiency. The project involved analyzing large datasets to uncover customer purchasing patterns, identify high-demand products, and evaluate revenue drivers. I explored seasonal trends, customer segmentation, and sales performance across different categories, providing actionable insights to enhance marketing campaigns, optimize inventory, and improve overall customer satisfaction.
+    
   - Excel
 
 ## Education
