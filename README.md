@@ -33,6 +33,8 @@ My Resume in [pdf](https://github.com/ejymnbt/EJ-Mar-Manabat---Data-Analyst-Port
     **Description:** In this E-commerce Analysis, I delved into the world of online retail to understand how businesses can leverage data for growth and efficiency. The project involved analyzing large datasets to uncover customer purchasing patterns, identify high-demand products, and evaluate revenue drivers. I explored seasonal trends, customer segmentation, and sales performance across different categories, providing actionable insights to enhance marketing campaigns, optimize inventory, and improve overall customer satisfaction.
     
   - Excel
+    ### Bike Sales Project
+    **File:** [Excel Bike Sales Project.xlsx](https://github.com/ejymnbt/Portfolio-Projects/blob/main/Excel%20Bike%20Sales%20Project.xlsx).
 
 ## Education
 Holy Angel University:
