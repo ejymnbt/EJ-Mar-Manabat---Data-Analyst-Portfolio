@@ -46,6 +46,11 @@ Senior High School - Strand: Information and Communication Technology (ICT),
 2017 - 2019
 
 ## Certificates
+- [Data Literacy Professional - DataCamp (2025)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/Data%20Literacy%20Professional.pdf).
+  - Gained skills in understanding, visualizing, and communicating data-driven insights for informed decision-making.
+  - Learned key concepts in data ethics, data storytelling, and business analytics to drive strategic solutions.
+  - Enhanced ability to work with data effectively, ensuring accuracy and reliability in business reporting.
+    
 - [Associate Data Analyst - DataCamp (2024)](https://github.com/ejymnbt/Portfolio-Projects/blob/main/DAA0014953364438.pdf).
   - Developed skills in handling real-world data, including cleaning and transforming data forreporting purposes.
   - Successfully completed hands-on projects to solve practical data problems and supportdecision-making.
